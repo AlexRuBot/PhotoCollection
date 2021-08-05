@@ -45,6 +45,7 @@
 		74196AEF26BC489800E310F1 = {
 			isa = PBXGroup;
 			children = (
+				74196B1526BC61F500E310F1 /* README.md */,
 				74196AFA26BC489800E310F1 /* PhotoCollection */,
 				74196AF926BC489800E310F1 /* Products */,
 			);
@@ -70,7 +71,6 @@
 				74196B0426BC489E00E310F1 /* Assets.xcassets */,
 				74196B0626BC489E00E310F1 /* LaunchScreen.storyboard */,
 				74196B0926BC489E00E310F1 /* Info.plist */,
-				74196B1526BC61F500E310F1 /* README.md */,
 			);
 			path = PhotoCollection;
 			sourceTree = "<group>";
